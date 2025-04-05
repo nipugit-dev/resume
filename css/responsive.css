@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Some Responsive CSS */
+
+@media screen and (min-width:1367px) {
+.skdslider ul.slide-navs{left: 15%;}	
+}
+
+@media screen and (max-width:1199px) {
+
+}
+@media screen and (max-width:991px) {
+
+}
+@media screen and (max-width:576px) {
+
+}
+@media screen and (max-width:479px) {
+
+}
+
